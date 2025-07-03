@@ -1,6 +1,17 @@
 ### Hiya!  
-  
-I'm Ash (they/them)! I'm a developer, journalist, and musician from England living in Bangor, Wales. I'm the owner and lead developer at @AeoliaXYZ and I manage @CubeBuilders' MC server.  
+
+```kotlin
+data class Ash( 
+  val name: String = "Ash Thawley",
+  var age: Int = LocalDate.now().year - 2004,
+  val pronouns: String = "they/them",
+  val programmingLanguages: MutableList<String> = mutableListOf("Kotlin", "Java", "JS", "Python"),
+  val humanLanguages: MutableList<String> = mutableListOf("English", "Français", "Deutsch", "Cymraeg"),
+  val location: String = "Bangor, Wales"
+)
+```
+
+I'm Ash! I'm a developer, journalist, and musician from England. I'm the owner and lead developer at @AeoliaXYZ and I manage @CubeBuilders' MC server.  
     
 I've had this account since I was in high school, so there's bound to be some absolutely awful code I haven't ever bothered to take down on here. Do not judge me by my Python!    
     
