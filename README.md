@@ -6,4 +6,4 @@ I've had this account since I was in high school, so there's bound to be some ab
     
 That's all I've got to say here, thank you for checking out my page.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asheiou&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asheiou&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
